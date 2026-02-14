@@ -87,7 +87,7 @@ Deploy to Vercel, Netlify, or Cloudflare Pages:
 2. Deploy the `dist/` folder
 3. Set environment variables:
    - `PUBLIC_API_URL=https://filmyflyhd.space/api`
-   - `PUBLIC_SITE_URL=https://filmyfly.work`
+   - `PUBLIC_SITE_URL=https://filmyfiy.online`
 
 ### Option 2: Same Server with Nginx
 

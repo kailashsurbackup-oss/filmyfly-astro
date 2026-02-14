@@ -60,7 +60,7 @@ export async function GET() {
     const { movies, categories } = await fetchSitemapData();
 
     // Get site URL from environment or use default
-    const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://filmyfly.work';
+    const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://filmyfiy.online';
     const baseUrl = siteUrl.replace(/\/$/, '');
 
     // Get current date for lastmod

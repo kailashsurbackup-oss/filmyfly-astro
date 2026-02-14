@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://filmyfly.work',
+  site: 'https://filmyfiy.online',
 
   // SSR mode for Vercel
   output: 'server',

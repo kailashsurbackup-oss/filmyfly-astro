@@ -36,7 +36,7 @@ Your project is now configured for Vercel deployment!
    Click **"Environment Variables"** and add:
    ```
    PUBLIC_API_URL = https://filmyflyhd.space/api
-   PUBLIC_SITE_URL = https://filmyfly.work
+   PUBLIC_SITE_URL = https://filmyfiy.online
    ```
 
 5. **Deploy**
@@ -46,7 +46,7 @@ Your project is now configured for Vercel deployment!
 
 6. **Add Custom Domain** (Optional)
    - Go to Project Settings → Domains
-   - Add `filmyfly.work`
+   - Add `filmyfiy.online`
    - Update your DNS records as instructed
 
 ---
@@ -81,7 +81,7 @@ Your project is now configured for Vercel deployment!
    # Enter: https://filmyflyhd.space/api
    
    vercel env add PUBLIC_SITE_URL
-   # Enter: https://filmyfly.work
+   # Enter: https://filmyfiy.online
    ```
 
 5. **Deploy to Production**
@@ -117,7 +117,7 @@ git push origin main
 
 Your site will be available at:
 - **Vercel URL**: `https://filmyfly-astro.vercel.app`
-- **Custom Domain**: `https://filmyfly.work` (after DNS setup)
+- **Custom Domain**: `https://filmyfiy.online` (after DNS setup)
 
 ### Verify Deployment
 
@@ -143,18 +143,18 @@ Once connected to GitHub:
 
 ---
 
-## 📝 Custom Domain Setup (filmyfly.work)
+## 📝 Custom Domain Setup (filmyfiy.online)
 
 1. **In Vercel Dashboard**
    - Go to Project → Settings → Domains
-   - Add `filmyfly.work`
-   - Add `www.filmyfly.work`
+   - Add `filmyfiy.online`
+   - Add `www.filmyfiy.online`
 
 2. **Update DNS Records**
    
    Add these records in your domain registrar:
    
-   **For apex domain (filmyfly.work):**
+   **For apex domain (filmyfiy.online):**
    ```
    Type: A
    Name: @
@@ -171,7 +171,7 @@ Once connected to GitHub:
 3. **Wait for DNS Propagation** (5-60 minutes)
 
 4. **Verify**
-   - Visit `https://filmyfly.work`
+   - Visit `https://filmyfiy.online`
    - SSL certificate will be auto-generated
 
 ---

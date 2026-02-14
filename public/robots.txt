@@ -18,4 +18,4 @@ Allow: /page/how-to-download-movie
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://filmyfly.work/sitemap.xml
+Sitemap: https://filmyfiy.online/sitemap.xml

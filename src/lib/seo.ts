@@ -5,7 +5,7 @@
 
 import type { Movie, Category } from './api';
 
-const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://filmyfly.work';
+const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://filmyfiy.online';
 
 export interface SEOProps {
     title: string;
